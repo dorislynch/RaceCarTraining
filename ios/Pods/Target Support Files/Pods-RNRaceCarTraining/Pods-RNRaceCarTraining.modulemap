@@ -1,0 +1,6 @@
+framework module Pods_RNRaceCarTraining {
+  umbrella header "Pods-RNRaceCarTraining-umbrella.h"
+
+  export *
+  module * { export * }
+}
